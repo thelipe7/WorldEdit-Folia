@@ -167,6 +167,7 @@ public class NavigationCommands {
 
     @Command(
         name = "up",
+        aliases = { "/up" },
         desc = "Go upwards some distance"
     )
     @CommandPermissions("worldedit.navigation.up")

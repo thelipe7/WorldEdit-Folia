@@ -65,7 +65,7 @@ logger.lifecycle("""
 *******************************************
 """)
 
-rootProject.name = "worldedit"
+rootProject.name = "worldedit-folia"
 
 includeBuild("build-logic")
 
